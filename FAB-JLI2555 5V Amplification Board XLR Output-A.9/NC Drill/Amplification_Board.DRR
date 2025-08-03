@@ -1,0 +1,31 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Amplification_Board.CMPcbDoc   8/3/2025  9:33:26 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Amplification_Board-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : Amplification_Board-SlotHoles-Plated.TXT
+ASCII Plated RectHoles File : Amplification_Board-RectHoles-Plated.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.3mm)                                             Round             28        PTH        8.54inch (216.94mm)
+T2      17mil (0.439mm)                                           Rectangle         1         PTH        0.08inch (2.06mm)
+T3      24mil (0.599mm)         +/-4mil (0.1mm)                   Slot              4         PTH        1.35inch (34.38mm)
+T4      25mil (0.635mm)                                           Round             89        PTH        20.65inch (524.45mm)
+T5      28mil (0.711mm)                                           Round             10        PTH        1.25inch (31.84mm)
+T6      30mil (0.762mm)                                           Rectangle         1         PTH        0.09inch (2.29mm)
+T7      32mil (0.8mm)                                             Round             4         PTH        0.65inch (16.43mm)
+T8      36mil (0.914mm)                                           Round             2         PTH        0.29inch (7.49mm)
+T9      39mil (1.001mm)                                           Round             3         PTH        0.20inch (5.00mm)
+T10     40mil (1.016mm)                                           Rectangle         1         PTH        0.10inch (2.54mm)
+T11     43mil (1.1mm)                                             Rectangle         2         PTH        0.79inch (20.00mm)
+T12     45mil (1.151mm)                                           Round             5         PTH        0.50inch (12.70mm)
+T13     47mil (1.194mm)                                           Round             9         PTH        4.62inch (117.27mm)
+T14     47mil (1.199mm)                                           Round             2         PTH        0.52inch (13.17mm)
+T15     63mil (1.6mm)                                             Round             4         PTH        0.86inch (21.85mm)
+T16     138mil (3.5mm)                                            Round             4         PTH        6.08inch (154.49mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              169
+
+Total Processing Time (hh:mm:ss) : 00:00:00

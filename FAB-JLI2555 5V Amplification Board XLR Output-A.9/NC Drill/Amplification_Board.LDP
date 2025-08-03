@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: C:\Users\puppy\AppData\Local\TempReleases\Snapshot\2\Amplification_Board.CMPcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=amplification_board-roundholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=amplification_board-slotholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
+LayersSetName=Top_Bot_Plated_Rect_Holes|DrillFile=amplification_board-rectholes-plated.txt|DrillLayers=gtl,gp1,gp2,gbl
